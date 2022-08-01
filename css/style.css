@@ -1,0 +1,35 @@
+
+.id{
+
+background-color: white;
+display: inline-block;
+padding:20px ;
+padding-right:30px ;
+text-align: left;
+
+}
+.linha1{
+    
+    background-color: white;
+    display: table-cell;
+    padding:20px ;
+    padding-left: 20px;
+    
+}
+.linha2{
+    
+    background-color: white;
+    display: inline-block;
+    padding:18px ;
+}
+.linha3{
+  
+    background-color: white;
+    display: table-cell;
+    padding:19px ;
+    
+}
+
+ 
+
+
